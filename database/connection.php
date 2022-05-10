@@ -1,5 +1,5 @@
 <?php
-    $conn = mysqli_connect('localhost','user','passwd','db_name');
+    $conn = mysqli_connect('localhost','userr','passwd','db_name');
 
     mysqli_query($conn,"SET NAMES 'utf8'");
     mysqli_query($conn,"SET character_set_connection=utf8");
