@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.22, for macos10.15 (x86_64)
 --
--- Host: ns452.hostgator.com.br    Database: profda36_facichist
+-- Host: xxxx    Database: xxxx
 -- ------------------------------------------------------
 -- Server version	5.6.41-84.1
 
