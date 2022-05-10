@@ -1,0 +1,5 @@
+[03-Jun-2020 11:39:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$resp' (T_VARIABLE), expecting ',' or ';' in /home1/profda36/facic.profdata.com.br/quiz/aluno/index.php on line 146
+[11-Mar-2021 21:42:10 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Mar-2021 21:42:31 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Mar-2021 21:42:57 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Mar-2021 17:01:30 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
